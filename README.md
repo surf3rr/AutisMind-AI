@@ -37,7 +37,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Ashar-256/AutisMind-AI.git
+git clone https://github.com/surf3rr/AutisMind-AI.git
 cd AutisMind-AI
 ```
 
