@@ -2,7 +2,7 @@
   "name": "shadcnui",
   "type": "module",
   "packageManager": "pnpm@10.18.3",
-  "homepage": "https://github.com/Ashar-256/AutisMind-AI",
+  "homepage": "https://surf3rr.github.io/AutisMind-AI",
   "scripts": {
     "predeploy": "pnpm run build",
     "deploy": "gh-pages -d dist",
