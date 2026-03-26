@@ -79,7 +79,7 @@ The frontend will start at `http://localhost:5173`.
 
 ### Frontend (GitHub Pages)
 This project is configured to deploy to GitHub Pages automatically or via manual script.
-The live site is available at: **[https://ashar-256.github.io/AutisMind-AI/](https://ashar-256.github.io/AutisMind-AI/)**
+The live site is available at: **[https://surf3rr.github.io/AutisMind-AI/])**
 
 ### Backend (Render/Cloud)
 To make the app work online for everyone, the backend must be hosted on a cloud provider like Render.
